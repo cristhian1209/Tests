@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "UMLFactory", "UMLFactory\UMLFactory.modelproj", "{383BAE1A-1713-4B36-8E73-7287FEE2C3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UMLFactoryLib", "UMLFactoryLib\UMLFactoryLib.csproj", "{01A2D75C-D5CD-424A-8BAD-F645B93A5D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConselePatronFactory", "ConselePatronFactory\ConselePatronFactory.csproj", "{E0A1A34A-AD1B-419D-9CC1-587328B92D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383BAE1A-1713-4B36-8E73-7287FEE2C3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383BAE1A-1713-4B36-8E73-7287FEE2C3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383BAE1A-1713-4B36-8E73-7287FEE2C3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383BAE1A-1713-4B36-8E73-7287FEE2C3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A2D75C-D5CD-424A-8BAD-F645B93A5D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A2D75C-D5CD-424A-8BAD-F645B93A5D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A2D75C-D5CD-424A-8BAD-F645B93A5D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A2D75C-D5CD-424A-8BAD-F645B93A5D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A1A34A-AD1B-419D-9CC1-587328B92D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A1A34A-AD1B-419D-9CC1-587328B92D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A1A34A-AD1B-419D-9CC1-587328B92D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A1A34A-AD1B-419D-9CC1-587328B92D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

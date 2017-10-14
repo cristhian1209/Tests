@@ -1,0 +1,4 @@
+D:\Examen DyP\PatronFactory\UMLFactoryLib\bin\Debug\UMLFactoryLib.dll
+D:\Examen DyP\PatronFactory\UMLFactoryLib\bin\Debug\UMLFactoryLib.pdb
+D:\Examen DyP\PatronFactory\UMLFactoryLib\obj\Debug\UMLFactoryLib.dll
+D:\Examen DyP\PatronFactory\UMLFactoryLib\obj\Debug\UMLFactoryLib.pdb
